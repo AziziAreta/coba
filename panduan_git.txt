@@ -1,0 +1,6 @@
+echo "# coba" >> README.md
+git init (ini hanya di pake sekali)
+git add README.md
+git commit -m "first commit" (ini komentar upload)
+git remote add origin https://github.com/AziziAreta/coba.git (ini hanya di pake sekali)
+git push -u origin master
